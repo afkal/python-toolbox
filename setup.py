@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='toolbox',
+    name='python-toolbox',
     version='0.0.1',
     author='Timo Laitila',
     author_email='timo@proactor.dev',
